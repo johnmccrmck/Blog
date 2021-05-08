@@ -1,6 +1,6 @@
-baseURL = "https://athul.github.io/archie/"
+baseURL = "https:johnmccrmck.com"
 languageCode = "en-us"
-title = "Archie"
+title = "John's Security Site"
 theme="archie"
 copyright = "© Athul"
 # Code Highlight
@@ -20,7 +20,7 @@ paginate=3 # articles per page
 [[params.social]]
 name = "GitHub"
 icon = "github"
-url = "https://github.com/athul/archie"
+url = "https://github.com/johnmccrmck"
 
 [[params.social]]
 name = "Twitter"
