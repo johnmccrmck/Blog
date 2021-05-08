@@ -1,6 +1,6 @@
 baseURL = "https://athul.github.io/archie/"
 languageCode = "en-us"
-title = "Archie"
+title = "John's Blog"
 theme="archie"
 copyright = "© Athul"
 # Code Highlight
