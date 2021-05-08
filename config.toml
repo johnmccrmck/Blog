@@ -1,6 +1,6 @@
-baseURL = "https:johnmccrmck.com"
+baseURL = "https://athul.github.io/archie/"
 languageCode = "en-us"
-title = "John's Security Site"
+title = "Archie"
 theme="archie"
 copyright = "© Athul"
 # Code Highlight
