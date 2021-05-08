@@ -1,8 +1,8 @@
 baseURL = "https://athul.github.io/archie/"
 languageCode = "en-us"
-title = "John's Blog"
+title = "John McCormack"
 theme="archie"
-copyright = "© Athul"
+copyright = "©JohnM"
 # Code Highlight
 pygmentsstyle = "monokai"
 pygmentscodefences = true
