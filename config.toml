@@ -32,6 +32,11 @@ name = "GitLab"
 icon = "gitlab"
 url = "https://gitlab.com/athul/"
 
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://gitlab.com/athul/"
+
 # Main menu Items
 
 [[menu.main]]
