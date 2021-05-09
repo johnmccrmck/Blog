@@ -1,14 +1,14 @@
 baseURL = "https://johnmccrmck.com/"
 languageCode = "en-us"
-title = "John McCormack"
+title = "screenslav3r"
 theme="archie"
-copyright = "© JohnM"
+copyright = "© screenslav3r"
 # Code Highlight
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-paginate=3 # articles per page
+paginate=10 # articles per page
 
 [params]
 	mode="auto" # color-mode → light,dark or auto
